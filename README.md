@@ -25,7 +25,3 @@ This Python script organizes files in a specified directory by grouping them int
 
 ## Requirements
 - Python 3.x
-
-## Installation
-```bash
-pip install -r requirements.txt
